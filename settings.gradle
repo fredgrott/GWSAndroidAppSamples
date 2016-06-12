@@ -1,1 +1,1 @@
-include ':app', ':gwsviewdecorator'
+include ':app', ':gwsviewdecorator', ':gwsmaterialviewpager'

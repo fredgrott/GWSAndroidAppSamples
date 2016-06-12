@@ -9,6 +9,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/gwsmaterialviewpager" />
             <option value="$PROJECT_DIR$/gwsviewdecorator" />
           </set>
         </option>
